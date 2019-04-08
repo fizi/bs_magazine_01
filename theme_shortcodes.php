@@ -60,7 +60,7 @@ class theme_shortcodes extends e_shortcode {
 				<li class="dropdown">
 			
 				<a class="dropdown-toggle" href="#" data-toggle="dropdown">'.LAN_LOGINMENU_51.' <strong class="caret"></strong></a>
-				<div class="dropdown-menu col-sm-12" style="min-width:250px; padding: 15px; padding-bottom: 0px;">
+				<div class="dropdown-menu col-sm-12" style="min-width: 335px; padding: 15px; padding-bottom: 15px;">
 				
 				{SOCIAL_LOGIN: size=2x&label=1}
 				'; // Sign In

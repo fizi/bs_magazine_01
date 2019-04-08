@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="BS Magazine 01" version="1.0" date="2017-02-10" compatibility="2.0">
+	<author name ="fizi" email="fizi@wsb.hu" url="http://fizithemes.hu" />
+	<summary>Magazine bootstrap theme by fizi</summary>
+	<description>A magazine bootstrap 3 responsive template.</description>
+	<category>magazine</category>
+  <copyright>Theme by: FIZI THEMES</copyright>
+	<plugins>
+		<plugin name='gallery' url='core' />
+    <plugin name='rss_menu' url='core' />
+		<plugin name='social' url='core' />
+	</plugins>
+	<keywords>
+		<word>bootstrap</word>
+		<word>magazine theme</word>
+    <word>responsive</word>
+	</keywords>
+	<screenshots>
+    <image>preview.jpg</image>
+		<image>preview_full.jpg</image>
+	</screenshots>
+	<stylesheets>
+		<css file="style.css" name="Default" />
+	</stylesheets>
+	<layouts>
+    <layout name='magazine_home' title='magazine homepage' default='false'>
+			<custompages>FRONTPAGE</custompages>	
+		</layout>
+    <layout name='magazine_full_width' title='magazine full-width' default='false'>
+      <custompages>forum</custompages>	
+    </layout>
+    <layout name='magazine_extend_news' title='magazine extend news' default='false'>
+      <custompages>/news/view/</custompages>
+    </layout>
+		<layout name='magazine_three_columns' title='magazine three columns' default='true' />
+	</layouts>
+</e107Theme>

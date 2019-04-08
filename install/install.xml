@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <e107Export version="2.1.5 (git)" timestamp="1489160509" >
+ <database>
 	<dbTable name="banner">
 		<item>
 			<field name="banner_id">1</field>

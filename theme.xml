@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<e107Theme name="BS Magazine 01" version="1.0" date="2017-02-10" compatibility="2.0">
+<e107Theme name="BS Magazine 01" version="1.0.1" date="2018-11-02" compatibility="2.0">
 	<author name ="fizi" email="fizi@wsb.hu" url="http://fizithemes.hu" />
 	<summary>Magazine bootstrap theme by fizi</summary>
 	<description>A magazine bootstrap 3 responsive template.</description>
-	<category>magazine</category>
+	<category>news</category>
   <copyright>Theme by: FIZI THEMES</copyright>
 	<plugins>
 		<plugin name='gallery' url='core' />
     <plugin name='rss_menu' url='core' />
 		<plugin name='social' url='core' />
+		<plugin name='banner' url='core' />
+		<plugin name='pm' url='core' />
+		<plugin name='chatbox_menu' url='core' />
+		<plugin name='featurebox' url='core' />
+		<plugin name='forum' url='core' />
+		<plugin name='poll' url='core' />
 	</plugins>
 	<keywords>
 		<word>bootstrap</word>

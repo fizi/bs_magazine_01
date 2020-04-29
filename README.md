@@ -40,5 +40,5 @@ http://en.fizithemes.hu/forum/help-e107-v2/318/bs-magazine-02/
 
 or
 
-https://www.e107.sk/forum/
+https://www.e107sk.com/forum/
 

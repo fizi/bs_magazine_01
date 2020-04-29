@@ -40,5 +40,5 @@ http://en.fizithemes.hu/forum/help-e107-v2/318/bs-magazine-02/
 
 or
 
-https://www.e107.sk/forum/bs-magazine-01-theme-by-fizi/
+https://www.e107.sk/forum/
 

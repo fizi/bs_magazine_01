@@ -30,7 +30,7 @@ http://en.fizithemes.hu/news/view/134/free-themes/free-theme-bs-magazine-01
 
 ## Demo:         
 
-https://v2demo.e107.sk/magazine01/
+https://www.e107sk.com/v2demo/magazine01/
  
 <img src="https://raw.githubusercontent.com/fizi/bs_magazine_01/master/preview_full.jpg" />   
 

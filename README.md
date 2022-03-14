@@ -28,9 +28,6 @@ http://fizithemes.hu/h%C3%ADrek/view/139/free-themes/free-theme-bs-magazine-them
 In English:
 http://en.fizithemes.hu/news/view/134/free-themes/free-theme-bs-magazine-01
 
-## Demo:         
-
-https://www.e107sk.com/v2demo/magazine01/
  
 <img src="https://raw.githubusercontent.com/fizi/bs_magazine_01/master/preview_full.jpg" />   
 
